@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'wow_signature'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">WOW - Signature Admin</label>
+			<label index="tx_wowcharacter_characters.tx_wowsignature_sig_setup">signature setup</label>
+			<label index="tx_wowcharacter_characters.tx_wowsignature_sig_files">signature files</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tt_content.list_type_pi1">WOW - Signatur Admin</label>
+			<label index="tx_wowcharacter_characters.tx_wowsignature_sig_setup">Signatur Einstellungen</label>
+			<label index="tx_wowcharacter_characters.tx_wowsignature_sig_files">Signatur Dateien</label>
+		</languageKey>
+	</data>
+</T3locallang>

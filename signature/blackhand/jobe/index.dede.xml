@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<signature width='450' height='150' >
+
+  <random>
+    <image src='jobe001.png' x='0' y='0' />
+    <image src='jobe002.png' x='0' y='0' />
+  </random>
+
+  <image src='fade.png' x='0' y='0' />
+  
+  <text value='{$character:name|upper}' size='46' angle='0' x='445' y='10' color='9482C9' font='warlock_regular' align='right' />
+  
+  <text value='{$character:suffix}' size='14' angle='0' x='370' y='5' color='9482C9' font='mtcorsva' align='right' />
+  
+  <text value='GEBRECHEN {$character:class|upper} ({$character:level})' size='14' angle='0' x='445' y='65' color='00DA00' font='warlock_regular' align='right' />
+  
+  <text value='GROSSMEISTER DER' size='8' angle='0' x='442' y=' 85' color='FFFFFF' font='checkbk0' align='right' />
+  <text value='GNOMISCHEN'       size='8' angle='0' x='442' y=' 95' color='FFFFFF' font='checkbk0' align='right' />
+  <text value='INGENIEURSKUNST'  size='8' angle='0' x='445' y='105' color='FFFFFF' font='checkbk0' align='right' />
+
+  <text value='"Nur echt mit der Brille"'  size='12' angle='0' x='442' y='130' color='FFD517' font='mtcorsva' align='right' />
+
+  <text value='Stärke: {$characterTab:baseStats:strength:effective}'          size='8' angle='0' x='165' y='  5' color='333333' font='tahomabd' align='left' />
+  <text value='Beweglichkeit: {$characterTab:baseStats:agility:effective}'    size='8' angle='0' x='165' y=' 15' color='333333' font='tahomabd' align='left' />
+  <text value='Ausdauer: {$characterTab:baseStats:stamina:effective}'         size='8' angle='0' x='165' y=' 25' color='333333' font='tahomabd' align='left' />
+  <text value='Intelligenz: {$characterTab:baseStats:intellect:effective}'    size='8' angle='0' x='165' y=' 35' color='333333' font='tahomabd' align='left' />
+  <text value='Willenskraft: {$characterTab:baseStats:spirit:effective}'      size='8' angle='0' x='165' y=' 45' color='333333' font='tahomabd' align='left' />
+  <text value='Rüstung: {$characterTab:baseStats:armor:effective}'            size='8' angle='0' x='165' y=' 55' color='333333' font='tahomabd' align='left' />
+  <text value='Schadensboni: {$characterTab:spell:bonusDamage:shadow:value}'  size='8' angle='0' x='165' y=' 65' color='333333' font='tahomabd' align='left' />
+  <text value='Trefferw.: {$characterTab:spell:hitRating:value}'              size='8' angle='0' x='165' y=' 75' color='333333' font='tahomabd' align='left' />
+  <text value='Kritisch: {$characterTab:spell:critChance:shadow:percent}%'    size='8' angle='0' x='165' y=' 85' color='333333' font='tahomabd' align='left' />
+  <text value='Tempow.: {$characterTab:spell:hasteRating:hasteRating}'        size='8' angle='0' x='165' y=' 95' color='333333' font='tahomabd' align='left' />
+  <text value='Manareg.: {$characterTab:spell:manaRegen:notCasting|int}'      size='8' angle='0' x='165' y='105' color='333333' font='tahomabd' align='left' />
+  <text value='Durchschlag.: {$characterTab:spell:penetration:value}'         size='8' angle='0' x='165' y='115' color='333333' font='tahomabd' align='left' />
+  
+  <text value='Talente: {$characterTab:talentSpec:treeOne|int}/{$characterTab:talentSpec:treeTwo|int}/{$characterTab:talentSpec:treeThree|int}' size='8' angle='0' x='165' y='125' color='333333' font='tahomabd' align='left' />
+  
+  <text value='({$characterInfo:character:lastModified})' size='8' angle='0' x='165' y='138' color='333333' font='tahomabd' align='left' />
+  
+</signature>

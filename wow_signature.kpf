@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="4a76a170-6700-4f9b-9c4d-5d0410fa9c39" kpf_version="4" name="wow_signature.kpf">
+<preference-set idref="4a76a170-6700-4f9b-9c4d-5d0410fa9c39">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>

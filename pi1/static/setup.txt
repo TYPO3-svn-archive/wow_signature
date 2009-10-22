@@ -1,0 +1,25 @@
+wowsignature = PAGE
+wowsignature {
+  config.renderCharset = utf-8
+  config.metaCharset = utf-8
+  config.disableAllHeaderCode = 1
+  config.additionalHeaders = Content-type: image/png
+  config.no_cache = 1
+  config.xhtml_cleaning = all
+  config.xmlprologue = none
+  config.language = de
+  config.locale_all = de_DE
+  typeNum = {$plugin.tx_wowsignature_pi1.typeNum}
+  10 = USER
+  10 < plugin.tx_wowsignature_pi1
+  10.userFunc = tx_wowsignature_pi1->signature
+}
+
+plugin.tx_wowsignature_pi1 {
+  10 = TEXT  
+  10.typolink.parameter.data = page:uid
+  10.typolink.additionalParams = &tx_wowsignature_pi1[id]={GPvar:tx_wowcharacter_pi1|id}&type={$plugin.tx_wowsignature_pi1.typeNum}
+  10.typolink.additionalParams.insertData = 1
+  10.typolink.returnLast = url
+  10.dataWrap = <img src="{getIndpEnv:TYPO3_SITE_URL}|"/>
+}

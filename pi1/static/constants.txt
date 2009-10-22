@@ -1,0 +1,3 @@
+plugin.tx_wowsignature_pi1 {
+  typeNum = 6963
+}

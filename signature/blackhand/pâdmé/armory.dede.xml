@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/_layout/character/sheet.xsl"?>
+<page globalSearch="1" lang="de_de" requestUrl="/character-sheet.xml">
+  <tabInfo subTab="profile" tab="character" tabGroup="character" tabUrl="r=Blackhand&amp;cn=P%C3%A2dm%C3%A9&amp;gn=PAX"/>
+  <characterInfo>
+    <character battleGroup="Cyclone / Wirbelsturm" charUrl="r=Blackhand&amp;n=P%C3%A2dm%C3%A9" class="Hexenmeisterin" classId="9" classUrl="c=Hexenmeisterin" faction="Allianz" factionId="0" gender="Weiblich" genderId="1" guildName="PAX" guildUrl="r=Blackhand&amp;gn=PAX" lastModified="10. Oktober 2009" level="80" name="Pâdmé" points="4255" prefix="" race="Gnom" raceId="7" realm="Blackhand" suffix=" von Gnomeregan" titleId="81">
+      <arenaTeams>
+        <arenaTeam battleGroup="Cyclone / Wirbelsturm" created="1251849600000" faction="Allianz" factionId="0" gamesPlayed="0" gamesWon="0" lastSeasonRanking="0" name="Letzte Woche Rang Keiner" ranking="12653" rating="122" realm="Blackhand" realmUrl="b=Cyclone+%2F+Wirbelsturm&amp;r=Blackhand&amp;ts=2&amp;t=Letzte+Woche+Rang+Keiner&amp;ff=realm&amp;fv=Blackhand&amp;select=Letzte+Woche+Rang+Keiner" season="0" seasonGamesPlayed="23" seasonGamesWon="3" size="2" teamSize="2" teamUrl="r=Blackhand&amp;ts=2&amp;t=Letzte+Woche+Rang+Keiner&amp;select=Letzte+Woche+Rang+Keiner" url="r=Blackhand&amp;ts=2&amp;t=Letzte+Woche+Rang+Keiner&amp;select=Letzte+Woche+Rang+Keiner">
+          <emblem background="ff000000" borderColor="ffde8e03" borderStyle="6" iconColor="ffeda90b" iconStyle="68"/>
+          <members>
+            <character battleGroup="" charUrl="r=Blackhand&amp;n=P%C3%A2dm%C3%A9" class="Hexenmeister" classId="9" contribution="122" gamesPlayed="0" gamesWon="0" gender="Weiblich" genderId="1" guild="PAX" guildId="2277" guildUrl="r=Blackhand&amp;gn=PAX" name="Pâdmé" race="Gnom" raceId="7" seasonGamesPlayed="23" seasonGamesWon="3" teamRank="0"/>
+            <character battleGroup="" charUrl="r=Blackhand&amp;n=Grueslayer" class="Magier" classId="8" contribution="108" gamesPlayed="0" gamesWon="0" gender="Männlich" genderId="0" guild="Serenity" guildId="1328146" guildUrl="r=Blackhand&amp;gn=Serenity" name="Grueslayer" race="Mensch" raceId="1" seasonGamesPlayed="23" seasonGamesWon="3" teamRank="1"/>
+          </members>
+        </arenaTeam>
+      </arenaTeams>
+    </character>
+    <characterTab>
+      <talentSpecs>
+        <talentSpec active="1" group="2" icon="spell_shadow_metamorphosis" prim="Dämonologie" treeOne="0" treeThree="23" treeTwo="48"/>
+        <talentSpec group="1" icon="spell_shadow_rainoffire" prim="Zerstörung" treeOne="0" treeThree="51" treeTwo="20"/>
+      </talentSpecs>
+      <buffs/>
+      <debuffs/>
+      <pvp>
+        <lifetimehonorablekills value="1138"/>
+        <arenacurrency value="522"/>
+      </pvp>
+      <professions>
+        <skill id="171" key="alchemy" max="450" name="Alchemie" value="450"/>
+        <skill id="182" key="herbalism" max="450" name="Kräuterkunde" value="450"/>
+      </professions>
+      <characterBars>
+        <health effective="18863"/>
+        <secondBar casting="0" effective="18855" notCasting="330" type="m"/>
+      </characterBars>
+      <baseStats>
+        <strength attack="54" base="54" block="-1" effective="64"/>
+        <agility armor="160" attack="-1" base="70" critHitPercent="4.21" effective="80"/>
+        <stamina base="96" effective="1133" health="11150" petBonus="340"/>
+        <intellect base="173" critHitPercent="7.59" effective="982" mana="14450" petBonus="295"/>
+        <spirit base="166" effective="630" healthRegen="32" manaRegen="330"/>
+        <armor base="2093" effective="2093" percent="12.08" petBonus="733"/>
+      </baseStats>
+      <resistances>
+        <arcane petBonus="0" value="0"/>
+        <fire petBonus="0" value="0"/>
+        <frost petBonus="0" value="0"/>
+        <holy petBonus="0" value="0"/>
+        <nature petBonus="0" value="0"/>
+        <shadow petBonus="0" value="0"/>
+      </resistances>
+      <melee>
+        <mainHandDamage dps="108.2" max="236" min="77" percent="0" speed="1.45"/>
+        <offHandDamage dps="0.0" max="0" min="0" percent="0" speed="1.81"/>
+        <mainHandSpeed hastePercent="10.43" hasteRating="342" value="1.45"/>
+        <offHandSpeed hastePercent="10.43" hasteRating="342" value="1.81"/>
+        <power base="54" effective="54" increasedDps="3.0"/>
+        <hitRating increasedHitPercent="11.34" penetration="0" reducedArmorPercent="0.00" value="372"/>
+        <critChance percent="22.77" plusPercent="8.56" rating="393"/>
+        <expertise additional="0" percent="0.00" rating="0" value="0"/>
+      </melee>
+      <ranged>
+        <weaponSkill rating="0" value="0"/>
+        <damage dps="399.1" max="846" min="455" percent="0" speed="1.63"/>
+        <speed hastePercent="10.43" hasteRating="342" value="1.63"/>
+        <power base="70" effective="70" increasedDps="5.0" petAttack="-1.00" petSpell="-1.00"/>
+        <hitRating increasedHitPercent="11.34" penetration="0" reducedArmorPercent="0.00" value="372"/>
+        <critChance percent="22.77" plusPercent="8.56" rating="393"/>
+      </ranged>
+      <spell>
+        <bonusDamage>
+          <arcane value="1906"/>
+          <fire value="1906"/>
+          <frost value="1906"/>
+          <holy value="1906"/>
+          <nature value="1906"/>
+          <shadow value="1906"/>
+          <petBonus attack="1086" damage="286" fromType="fire"/>
+        </bonusDamage>
+        <bonusHealing value="1906"/>
+        <hitRating increasedHitPercent="14.18" penetration="0" reducedResist="0" value="372"/>
+        <critChance rating="393">
+          <arcane percent="26.15"/>
+          <fire percent="26.15"/>
+          <frost percent="26.15"/>
+          <holy percent="26.15"/>
+          <nature percent="26.15"/>
+          <shadow percent="26.15"/>
+        </critChance>
+        <penetration value="0"/>
+        <manaRegen casting="0.00" notCasting="330.00"/>
+        <hasteRating hastePercent="10.43" hasteRating="342"/>
+      </spell>
+      <defenses>
+        <armor base="2093" effective="2093" percent="12.08" petBonus="733"/>
+        <defense decreasePercent="0.00" increasePercent="0.00" plusDefense="0" rating="0" value="400.00"/>
+        <dodge increasePercent="0.00" percent="3.76" rating="0"/>
+        <parry increasePercent="0.00" percent="0.00" rating="0"/>
+        <block increasePercent="0.00" percent="0.00" rating="0"/>
+        <resilience damagePercent="0.00" hitPercent="0.00" value="0.00"/>
+      </defenses>
+      <items>
+        <item durability="58" gem0Id="41333" gem1Id="40014" gem2Id="0" icon="inv_helmet_87" id="45289" maxDurability="60" permanentenchant="3002" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="0" slot="0"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_jewelry_necklace_41" id="45822" maxDurability="0" permanentenchant="0" pickUp="PickUpRing" putDown="PutDownRing" randomPropertiesId="0" seed="0" slot="1"/>
+        <item durability="57" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_shoulder_72" id="39284" maxDurability="60" permanentenchant="2981" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="604321584" slot="2"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_shirt_01" id="6097" maxDurability="0" permanentenchant="0" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="0" slot="3"/>
+        <item durability="94" gem0Id="40133" gem1Id="0" gem2Id="0" icon="inv_chest_cloth_66" id="45865" maxDurability="100" permanentenchant="3832" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="2146483072" slot="4"/>
+        <item durability="33" gem0Id="40014" gem1Id="0" gem2Id="0" icon="inv_belt_44" id="45694" maxDurability="35" permanentenchant="0" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="1428564480" slot="5"/>
+        <item durability="74" gem0Id="40172" gem1Id="40153" gem2Id="0" icon="inv_pants_cloth_05" id="45420" maxDurability="75" permanentenchant="3719" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="946027488" slot="6"/>
+        <item durability="49" gem0Id="40155" gem1Id="0" gem2Id="0" icon="inv_boots_cloth_22" id="47560" maxDurability="50" permanentenchant="0" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="800612832" slot="7"/>
+        <item durability="35" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_bracer_18" id="40740" maxDurability="35" permanentenchant="2332" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="0" slot="8"/>
+        <item durability="35" gem0Id="40133" gem1Id="0" gem2Id="0" icon="inv_gauntlets_17" id="45419" maxDurability="35" permanentenchant="3246" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="0" slot="9"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_jewelry_ring_79" id="37192" maxDurability="0" permanentenchant="0" pickUp="PickUpRing" putDown="PutDownRing" randomPropertiesId="0" seed="0" slot="10"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_jewelry_ring_51naxxramas" id="40080" maxDurability="0" permanentenchant="0" pickUp="PickUpRing" putDown="PutDownRing" randomPropertiesId="0" seed="1632502656" slot="11"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_misc_eye_02" id="45308" maxDurability="0" permanentenchant="0" pickUp="PickUpWand" putDown="PutDownWand" randomPropertiesId="0" seed="817876576" slot="12"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_misc_rune_09" id="47213" maxDurability="0" permanentenchant="0" pickUp="PickUpWand" putDown="PutDownWand" randomPropertiesId="0" seed="1918723200" slot="13"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_misc_cape_naxxramas_02" id="40253" maxDurability="0" permanentenchant="0" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="0" slot="14"/>
+        <item durability="104" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_sword_134" id="45287" maxDurability="105" permanentenchant="3834" pickUp="PickUpMetalSmall" putDown="PutDownSmallMEtal" randomPropertiesId="0" seed="1217332864" slot="15"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_offhand_dalaran_d_01" id="40698" maxDurability="0" permanentenchant="0" pickUp="PickUpWand" putDown="PutDownWand" randomPropertiesId="0" seed="0" slot="16"/>
+        <item durability="75" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_wand_32" id="47658" maxDurability="75" permanentenchant="0" pickUp="PickUpWand" putDown="PutDownWand" randomPropertiesId="0" seed="0" slot="17"/>
+        <item durability="0" gem0Id="0" gem1Id="0" gem2Id="0" icon="inv_shirt_guildtabard_01" id="43155" maxDurability="0" permanentenchant="0" pickUp="PickUpCloth_Leather01" putDown="PutDownCloth_Leather01" randomPropertiesId="0" seed="0" slot="18"/>
+      </items>
+      <glyphs>
+        <glyph effect="Erhöht die gesamte Angriffskraft Eurer Teufelswache um 20%." icon="ui-glyph-rune-15" id="278" name="Glyphe 'Teufelswache'" type="major"/>
+        <glyph effect="Erhöht das Schwimmtempo von Zielen, die unter dem Effekt Eures Zaubers 'Unendlicher Atem' stehen, um 20%." icon="ui-glyph-rune-6" id="477" name="Glyphe 'Unendlicher Atem'" type="minor"/>
+        <glyph effect="Durch den Zauber 'Seelendieb' wird manchmal ein zusätzlicher Seelensplitter erschaffen." icon="ui-glyph-rune-7" id="478" name="Glyphe 'Seelendieb'" type="minor"/>
+        <glyph effect="Wenn Ihr den Zauber 'Aderlass' nutzt, gewinnt Ihr 40 Sek. lang 20% Eurer Willenskraft als Zaubermacht." icon="ui-glyph-rune-16" id="760" name="Glyphe 'Aderlass'" type="major"/>
+        <glyph effect="Verringert die Manakosten für den Zauber 'Ritual der Seelen' um 70%." icon="ui-glyph-rune-17" id="482" name="Glyphe 'Ritual der Seelen'" type="minor"/>
+        <glyph effect="Erhöht den von 'Verbrennen' verursachten Schaden um 5%." icon="ui-glyph-rune-8" id="272" name="Glyphe 'Verbrennen'" type="major"/>
+      </glyphs>
+    </characterTab>
+    <summary>
+      <c earned="406" points="4255" total="986" totalPoints="10850"/>
+      <category id="92" name="Allgemein">
+        <c earned="35" earnedPoints="380" total="54" totalPoints="570"/>
+      </category>
+      <category id="96" name="Quests">
+        <c earned="19" earnedPoints="190" total="49" totalPoints="530"/>
+      </category>
+      <category id="97" name="Erkundung">
+        <c earned="61" earnedPoints="655" total="70" totalPoints="830"/>
+      </category>
+      <category id="95" name="Spieler gegen Spieler">
+        <c earned="33" earnedPoints="360" total="164" totalPoints="1910"/>
+      </category>
+      <category id="168" name="Dungeon &amp; Schlachtzug">
+        <c earned="97" earnedPoints="985" total="391" totalPoints="4195"/>
+      </category>
+      <category id="169" name="Berufe">
+        <c earned="55" earnedPoints="550" total="75" totalPoints="760"/>
+      </category>
+      <category id="201" name="Ruf">
+        <c earned="10" earnedPoints="125" total="44" totalPoints="545"/>
+      </category>
+      <category id="155" name="Weltereignisse">
+        <c earned="96" earnedPoints="1010" total="139" totalPoints="1510"/>
+      </category>
+      <category id="81" name="Heldentaten">
+        <c earned="9"/>
+      </category>
+    </summary>
+  </characterInfo>
+</page>

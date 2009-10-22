@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<signature width='450' height='150' >
+  <text value='{$character:name|upper}' size='46' x='5' y='5' color='C41F3B' />
+  <text value='{$character:class|upper} ({$character:level})' size='14' angle='0' x='5' y='65' color='C41F3B' />
+</signature>
