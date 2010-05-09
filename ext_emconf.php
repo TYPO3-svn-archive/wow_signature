@@ -13,7 +13,7 @@
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'World of Warcraft - Signature',
 	'description' => 'Generate signatures for WOW characters',
-	'category' => 'plugin',
+	'category' => 'World of Warcraft',
 	'author' => 'Jobe',
 	'author_email' => 'jobe@jobesoft.de',
 	'shy' => '',
@@ -32,7 +32,10 @@ $EM_CONF[$_EXTKEY] = array(
 	'version' => '0.0.0',
 	'constraints' => array(
 		'depends' => array(
-			'wow_character' => '',
+			'cms' => '',
+			'typo3' => '4.3.2',
+			'php' => '5.0',
+			'wow_armory' => '0.0.0',
 		),
 		'conflicts' => array(
 		),
